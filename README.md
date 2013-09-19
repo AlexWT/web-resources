@@ -10,3 +10,6 @@ List of web gems for designers and developers.
 
 ##### Wordpress related
  * [ReduxFramework](https://github.com/ReduxFramework/ReduxFramework) - Wordpress options framework which uses the WordPress Settings API, Custom Error/Validation Handling, Custom Field/Validation Types, and import/export functionality.
+
+##### JavaScript
+ * [Ladda Bootstrap](http://msurguy.github.io/ladda-bootstrap/) - A UI concept by @hakimel which merges loading indicators into the action that invoked them.
